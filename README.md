@@ -46,6 +46,7 @@ To build a regression model that predicts the amount of the tip using trip-relat
 -Features: trip_miles, tolls, sales_tax, congestion_surcharge, trip_duration.
 
 **Evaluation**
+
 -Split the dataset into training (80%) and testing (20%).
 -Evaluated using:
   -Mean Squared Error (MSE): 5.706
