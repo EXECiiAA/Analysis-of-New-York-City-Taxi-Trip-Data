@@ -31,20 +31,6 @@ To build a regression model that predicts the amount of the tip using trip-relat
 -Python code files for data processing, feature engineering, and modeling.
 
 
-**In the Repository:**
-
--EDA.ipynb: Exploratory Data Analysis providing initial insights and visualizations.
-
--data_cleaning.py: Python script for cleaning and standardizing raw data.
-
--model_training.py: PySpark code for feature engineering, model training, and evaluation.
-
--requirements.txt: Dependencies and libraries required to run the project.
-
--project_report.pdf: Detailed project documentation with findings, challenges, and results.
-
--README.md: This file, outlining the project’s purpose, structure, and usage.
-
 
 **Modeling Process**
 
